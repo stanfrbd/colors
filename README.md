@@ -1,6 +1,8 @@
 # colors
 An easy way to use custom colors with printf in C.
 
+> Only tested on Linux.
+
 ```c
 #include <stdio.h>
 
